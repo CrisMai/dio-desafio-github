@@ -1,0 +1,34 @@
+Link para download do Git: https://git-scm.com/downloads
+
+--------------------
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+-----------------
+
+PASSO A PASSO PARA CRIAR REPOSITÓRIO NO GITHUB:
+
+new repository => nome do repositório => criar =>abra o git bash => git init => comando 
+gitignore node (somente se tiver uma grande quantidade de arquivos) => git add . => 
+git commit -m "First comand" => copia o código gerado no repositório => git push.
+
+------------------
+
+Comandos importantes:
+
+git status // mostra todos os arquivos.
+
+git reset // desfaz um commit.
+
+git push // envia as alterações para o repositório.
+
+git add / prepara o arquivo para fazer o commit.
+
+rm -rf + nome da pasta // deleta a pasta.
+
+rm // deleta a pasta se estiver vazia.
+
+git branch -M main // muda a branch de master para
+main.
+
+
